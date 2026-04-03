@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I’m Anirban 👋
 
-<!--
-**amazinganirbanray-cmd/amazinganirbanray-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX and visual designer with experience in digital campaigns, publishing design, and interface prototyping.
 
-Here are some ideas to get you started:
+I design and build end-to-end visual experiences, including portfolio websites using AI-assisted workflows, GitHub, and deployment tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Skills
+- UI/UX Design (Figma)
+- Visual & Campaign Design
+- Book Cover & Layout Design
+- Adobe Creative Suite
+- GitHub & Web Deployment
+- AI-assisted Design Workflows
+
+---
+
+## 🔹 Featured Projects
+
+### Portfolio Website
+- Designed and developed my personal portfolio
+- Focused on clean UI, readability, and presentation  
+👉 [Add your live link here]
+
+---
+
+### Author Portfolio – Pinaki Gangopadhyay
+- Designed and built a live author portfolio website  
+- Structured content, layout, and user flow  
+👉 [Add link here]
+
+---
+
+## 🔹 Tools
+Figma • Photoshop • Illustrator • InDesign • GitHub • Vercel • AI Tools
+
+---
+
+## 🔹 About Me
+I enjoy working across design and execution—building visuals, interfaces, and complete digital experiences.
