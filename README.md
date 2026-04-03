@@ -21,14 +21,14 @@ I design and build end-to-end visual experiences, including portfolio websites u
 ### Portfolio Website
 - Designed and developed my personal portfolio
 - Focused on clean UI, readability, and presentation  
-👉 [Add your live link here]
+👉 https://www.anirbandesign.in
 
 ---
 
 ### Author Portfolio – Pinaki Gangopadhyay
 - Designed and built a live author portfolio website  
 - Structured content, layout, and user flow  
-👉 [Add link here]
+👉 https://pinakigangopadhyay.space
 
 ---
 
