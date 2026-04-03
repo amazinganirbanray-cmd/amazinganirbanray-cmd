@@ -3,6 +3,7 @@
 UI/UX and visual designer with experience in digital campaigns, publishing design, and interface prototyping.
 
 I design and build end-to-end visual experiences, including portfolio websites using AI-assisted workflows, GitHub, and deployment tools.
+I combine design thinking with execution—taking projects from concept to live deployment.
 
 ---
 
@@ -12,7 +13,7 @@ I design and build end-to-end visual experiences, including portfolio websites u
 - Book Cover & Layout Design
 - Adobe Creative Suite
 - GitHub & Web Deployment
-- AI-assisted Design Workflows
+- AI-assisted design and development tools (Chatgpt Codex, Google Antigravity)
 
 ---
 
@@ -39,3 +40,7 @@ Figma • Photoshop • Illustrator • InDesign • GitHub • Vercel • AI To
 
 ## 🔹 About Me
 I enjoy working across design and execution—building visuals, interfaces, and complete digital experiences.
+
+## 🔹 Contact
+📧 amazinganirbanray@gmail.com  
+🌐 https://www.anirbandesign.in
